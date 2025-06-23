@@ -1,0 +1,36 @@
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\bin\Debug\net6.0-windows\RM.Lab4.exe
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\bin\Debug\net6.0-windows\RM.Lab4.deps.json
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\bin\Debug\net6.0-windows\RM.Lab4.runtimeconfig.json
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\bin\Debug\net6.0-windows\RM.Lab4.dll
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\bin\Debug\net6.0-windows\RM.Lab4.pdb
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.csproj.AssemblyReference.cache
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.Form1.resources
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.csproj.GenerateResource.cache
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.AssemblyInfoInputs.cache
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.AssemblyInfo.cs
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.csproj.CoreCompileInputs.cache
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.dll
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\refint\RM.Lab4.dll
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.pdb
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.genruntimeconfig.cache
+C:\Education\Master\1.2\Risks Management\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\ref\RM.Lab4.dll
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\bin\Debug\net6.0-windows\RM.Lab4.exe
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\bin\Debug\net6.0-windows\RM.Lab4.deps.json
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\bin\Debug\net6.0-windows\RM.Lab4.runtimeconfig.json
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\bin\Debug\net6.0-windows\RM.Lab4.dll
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\bin\Debug\net6.0-windows\RM.Lab4.pdb
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.csproj.AssemblyReference.cache
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.Form1.resources
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.Out1.resources
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.Out2.resources
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.csproj.GenerateResource.cache
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.AssemblyInfoInputs.cache
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.AssemblyInfo.cs
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.csproj.CoreCompileInputs.cache
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.dll
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\refint\RM.Lab4.dll
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.pdb
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\RM.Lab4.genruntimeconfig.cache
+G:\My Drive\Study\SE 5\5.2.Управління ризиками в ІПЗ\Lab4\RM.Lab4\RM.Lab4\obj\Debug\net6.0-windows\ref\RM.Lab4.dll
